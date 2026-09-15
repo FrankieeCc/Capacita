@@ -1,13 +1,16 @@
-import './App.css'
+//import './App.css'
+
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-900 flex items-center justify-center">
-      <h1 className="text-6xl font-bold text-blue-500">
-        LEXIA
-      </h1>
+    <div className="flex flex-row md:flex-row min-h-screen bg-blue-300 items-center justify-center">
+      <div className="text-6xl font-bold flex flex-row text-blue-500">
+       ss
+      </div>
+      <div>sss</div>
     </div>
   )
 }
+
 
 export default App
